@@ -1,0 +1,8 @@
+//inside home.js
+//storing data using Usestate,learn hooks,switch,useEffect,routerdom,responsive caraousel for router dom npm i router-dom
+//response converted to json
+//Our data is succesfully stored in setPopularMovies
+//install react responsive caraousel using npm i reat-responsive-carousel and read documentation from react responsive carousel
+//after reloading card takes sometime to fetch image after api call for this we used another package-reactloading skeleton
+//reactloading skeleton documentation
+to insta;; use npm i react-loading-skeleton
